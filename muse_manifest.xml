@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fnb-trade.com" resolutions="1x" timestamp="1517244750069">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fnb-trade.com" resolutions="1x" timestamp="1517274497029">
   <folder name="css">
     <file name="site_global.css" crc="21729565"/>
-    <file name="master_a-master.css" crc="4202764914" ref="general:климатици:aux:автоклиматици:tcl:daikin:домашни:професионални:arielli:промоции:midea:gree:за-нас:mitsubishi:index:fujitsu:контакти:nippon:toshiba"/>
-    <file name="general.css" crc="4270848373" ref="general"/>
-    <file name="_________.css" crc="4250619839" ref="климатици"/>
-    <file name="aux.css" crc="4043133416" ref="aux"/>
-    <file name="_____________1.css" crc="4250619839" ref="автоклиматици"/>
-    <file name="tcl.css" crc="4253038835" ref="tcl"/>
-    <file name="daikin.css" crc="45675006" ref="daikin"/>
-    <file name="_______.css" crc="459419303" ref="домашни"/>
-    <file name="_____________.css" crc="3849759451" ref="професионални"/>
-    <file name="arielli.css" crc="3918782526" ref="arielli"/>
+    <file name="master_a-master.css" crc="3878788500" ref="домашни:fujitsu:midea:aux:toshiba:nippon:arielli:контакти:професионални:gree:промоции:daikin:tcl:автоклиматици:mitsubishi:климатици:за-нас:general:index"/>
+    <file name="_______.css" crc="388046107" ref="домашни"/>
+    <file name="fujitsu.css" crc="4255066896" ref="fujitsu"/>
+    <file name="midea.css" crc="3880842397" ref="midea"/>
+    <file name="aux.css" crc="4186492636" ref="aux"/>
+    <file name="toshiba.css" crc="483482123" ref="toshiba"/>
+    <file name="nippon.css" crc="400512725" ref="nippon"/>
+    <file name="arielli.css" crc="4270712231" ref="arielli"/>
+    <file name="________1.css" crc="150387229" ref="контакти"/>
+    <file name="_____________.css" crc="476733221" ref="професионални"/>
+    <file name="gree.css" crc="162413352" ref="gree"/>
     <file name="________.css" crc="4250619839" ref="промоции"/>
-    <file name="midea.css" crc="3995429801" ref="midea"/>
-    <file name="gree.css" crc="14394396" ref="gree"/>
+    <file name="daikin.css" crc="4183652402" ref="daikin"/>
+    <file name="tcl.css" crc="4109739975" ref="tcl"/>
+    <file name="_____________1.css" crc="4250619839" ref="автоклиматици"/>
+    <file name="mitsubishi.css" crc="3883705788" ref="mitsubishi"/>
+    <file name="_________.css" crc="4250619839" ref="климатици"/>
     <file name="__-___.css" crc="245789053" ref="за-нас"/>
-    <file name="mitsubishi.css" crc="4032995365" ref="mitsubishi"/>
-    <file name="index.css" crc="368895581" ref="index"/>
-    <file name="fujitsu.css" crc="4109022244" ref="fujitsu"/>
-    <file name="________1.css" crc="204986630" ref="контакти"/>
-    <file name="nippon.css" crc="317665612" ref="nippon"/>
-    <file name="toshiba.css" crc="198139794" ref="toshiba"/>
+    <file name="general.css" crc="4160382529" ref="general"/>
+    <file name="index.css" crc="423409854" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:климатици:промоции:за-нас:контакти:автоклиматици:домашни:aux:daikin:general:gree:toshiba:nippon:fujitsu:mitsubishi:midea:arielli:tcl:професионални"/>
@@ -78,88 +78,88 @@
     <file name="u5390.png" crc="534883920" ref="index"/>
     <file name="u5390-r.png" crc="3912143036" ref="index"/>
     <file name="0_ad90aff7.jpg" crc="3949734461" seo="true" ref="index:климатици:промоции:за-нас:контакти:автоклиматици:домашни:aux:daikin:general:gree:toshiba:nippon:fujitsu:mitsubishi:midea:arielli:tcl:професионални">
-      <caption webpage="за-нас" alt=""/>
-      <caption webpage="toshiba" alt=""/>
-      <caption webpage="general" alt=""/>
-      <caption webpage="arielli" alt=""/>
-      <caption webpage="nippon" alt=""/>
-      <caption webpage="климатици" alt=""/>
+      <caption webpage="midea" alt=""/>
       <caption webpage="daikin" alt=""/>
       <caption webpage="fujitsu" alt=""/>
-      <caption webpage="mitsubishi" alt=""/>
+      <caption webpage="gree" alt=""/>
+      <caption webpage="домашни" alt=""/>
+      <caption webpage="професионални" alt=""/>
       <caption webpage="промоции" alt=""/>
       <caption webpage="tcl" alt=""/>
-      <caption webpage="домашни" alt=""/>
-      <caption webpage="aux" alt=""/>
-      <caption webpage="gree" alt=""/>
+      <caption webpage="toshiba" alt=""/>
+      <caption webpage="nippon" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="професионални" alt=""/>
-      <caption webpage="автоклиматици" alt=""/>
-      <caption webpage="midea" alt=""/>
       <caption webpage="контакти" alt=""/>
+      <caption webpage="автоклиматици" alt=""/>
+      <caption webpage="климатици" alt=""/>
+      <caption webpage="за-нас" alt=""/>
+      <caption webpage="mitsubishi" alt=""/>
+      <caption webpage="arielli" alt=""/>
+      <caption webpage="general" alt=""/>
+      <caption webpage="aux" alt=""/>
     </file>
     <file name="cassete_semi_industrial.jpg" crc="74074006" seo="true" ref="index:климатици:промоции:за-нас:контакти:автоклиматици:домашни:aux:daikin:general:gree:toshiba:nippon:fujitsu:mitsubishi:midea:arielli:tcl:професионални">
-      <caption webpage="за-нас" alt=""/>
-      <caption webpage="toshiba" alt=""/>
-      <caption webpage="general" alt=""/>
-      <caption webpage="arielli" alt=""/>
-      <caption webpage="nippon" alt=""/>
-      <caption webpage="климатици" alt=""/>
+      <caption webpage="midea" alt=""/>
       <caption webpage="daikin" alt=""/>
       <caption webpage="fujitsu" alt=""/>
-      <caption webpage="mitsubishi" alt=""/>
+      <caption webpage="gree" alt=""/>
+      <caption webpage="домашни" alt=""/>
+      <caption webpage="професионални" alt=""/>
       <caption webpage="промоции" alt=""/>
       <caption webpage="tcl" alt=""/>
-      <caption webpage="домашни" alt=""/>
-      <caption webpage="aux" alt=""/>
-      <caption webpage="gree" alt=""/>
+      <caption webpage="toshiba" alt=""/>
+      <caption webpage="nippon" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="професионални" alt=""/>
-      <caption webpage="автоклиматици" alt=""/>
-      <caption webpage="midea" alt=""/>
       <caption webpage="контакти" alt=""/>
+      <caption webpage="автоклиматици" alt=""/>
+      <caption webpage="климатици" alt=""/>
+      <caption webpage="за-нас" alt=""/>
+      <caption webpage="mitsubishi" alt=""/>
+      <caption webpage="arielli" alt=""/>
+      <caption webpage="general" alt=""/>
+      <caption webpage="aux" alt=""/>
     </file>
     <file name="unnamed.png" crc="44191822" seo="true" ref="index:климатици:промоции:за-нас:контакти:автоклиматици:домашни:aux:daikin:general:gree:toshiba:nippon:fujitsu:mitsubishi:midea:arielli:tcl:професионални">
-      <caption webpage="за-нас" alt=""/>
-      <caption webpage="toshiba" alt=""/>
-      <caption webpage="general" alt=""/>
-      <caption webpage="arielli" alt=""/>
-      <caption webpage="nippon" alt=""/>
-      <caption webpage="климатици" alt=""/>
+      <caption webpage="midea" alt=""/>
       <caption webpage="daikin" alt=""/>
       <caption webpage="fujitsu" alt=""/>
-      <caption webpage="mitsubishi" alt=""/>
+      <caption webpage="gree" alt=""/>
+      <caption webpage="домашни" alt=""/>
+      <caption webpage="професионални" alt=""/>
       <caption webpage="промоции" alt=""/>
       <caption webpage="tcl" alt=""/>
-      <caption webpage="домашни" alt=""/>
-      <caption webpage="aux" alt=""/>
-      <caption webpage="gree" alt=""/>
+      <caption webpage="toshiba" alt=""/>
+      <caption webpage="nippon" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="професионални" alt=""/>
-      <caption webpage="автоклиматици" alt=""/>
-      <caption webpage="midea" alt=""/>
       <caption webpage="контакти" alt=""/>
+      <caption webpage="автоклиматици" alt=""/>
+      <caption webpage="климатици" alt=""/>
+      <caption webpage="за-нас" alt=""/>
+      <caption webpage="mitsubishi" alt=""/>
+      <caption webpage="arielli" alt=""/>
+      <caption webpage="general" alt=""/>
+      <caption webpage="aux" alt=""/>
     </file>
     <file name="phone-auricular-outline_icon-iconscom_73189.png" crc="4072930330" seo="true" ref="index:климатици:промоции:за-нас:контакти:автоклиматици:домашни:aux:daikin:general:gree:toshiba:nippon:fujitsu:mitsubishi:midea:arielli:tcl:професионални">
-      <caption webpage="за-нас" alt=""/>
-      <caption webpage="toshiba" alt=""/>
-      <caption webpage="general" alt=""/>
-      <caption webpage="arielli" alt=""/>
-      <caption webpage="nippon" alt=""/>
-      <caption webpage="климатици" alt=""/>
+      <caption webpage="midea" alt=""/>
       <caption webpage="daikin" alt=""/>
       <caption webpage="fujitsu" alt=""/>
-      <caption webpage="mitsubishi" alt=""/>
+      <caption webpage="gree" alt=""/>
+      <caption webpage="домашни" alt=""/>
+      <caption webpage="професионални" alt=""/>
       <caption webpage="промоции" alt=""/>
       <caption webpage="tcl" alt=""/>
-      <caption webpage="домашни" alt=""/>
-      <caption webpage="aux" alt=""/>
-      <caption webpage="gree" alt=""/>
+      <caption webpage="toshiba" alt=""/>
+      <caption webpage="nippon" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="професионални" alt=""/>
-      <caption webpage="автоклиматици" alt=""/>
-      <caption webpage="midea" alt=""/>
       <caption webpage="контакти" alt=""/>
+      <caption webpage="автоклиматици" alt=""/>
+      <caption webpage="климатици" alt=""/>
+      <caption webpage="за-нас" alt=""/>
+      <caption webpage="mitsubishi" alt=""/>
+      <caption webpage="arielli" alt=""/>
+      <caption webpage="general" alt=""/>
+      <caption webpage="aux" alt=""/>
     </file>
     <file name="white-wave-wallpaper-1.jpg" crc="3960539013" ref="index">
       <caption webpage="index" alt=""/>
@@ -190,19 +190,19 @@
       <caption webpage="контакти" alt=""/>
     </file>
     <file name="white-wave-wallpaper-12.jpg" crc="3960539013" ref="контакти:домашни:aux:general:gree:toshiba:nippon:fujitsu:mitsubishi:midea:arielli:tcl:професионални">
-      <caption webpage="tcl" alt=""/>
-      <caption webpage="toshiba" alt=""/>
-      <caption webpage="професионални" alt=""/>
-      <caption webpage="nippon" alt=""/>
-      <caption webpage="general" alt=""/>
-      <caption webpage="домашни" alt=""/>
-      <caption webpage="fujitsu" alt=""/>
-      <caption webpage="gree" alt=""/>
-      <caption webpage="aux" alt=""/>
-      <caption webpage="mitsubishi" alt=""/>
-      <caption webpage="arielli" alt=""/>
       <caption webpage="midea" alt=""/>
+      <caption webpage="fujitsu" alt=""/>
+      <caption webpage="toshiba" alt=""/>
+      <caption webpage="домашни" alt=""/>
+      <caption webpage="професионални" alt=""/>
+      <caption webpage="tcl" alt=""/>
+      <caption webpage="gree" alt=""/>
+      <caption webpage="mitsubishi" alt=""/>
       <caption webpage="контакти" alt=""/>
+      <caption webpage="aux" alt=""/>
+      <caption webpage="nippon" alt=""/>
+      <caption webpage="arielli" alt=""/>
+      <caption webpage="general" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="домашни:aux:daikin:general:gree:toshiba:nippon:fujitsu:mitsubishi:midea:arielli:tcl:професионални"/>
     <file name="u1348_states.png" crc="4166888501" ref="домашни"/>
@@ -496,23 +496,23 @@
       <caption webpage="професионални" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="473564577" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="климатици.html" crc="218810360" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="промоции.html" crc="377890498" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="за-нас.html" crc="3793524567" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="контакти.html" crc="3979399435" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="автоклиматици.html" crc="4010678636" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="домашни.html" crc="4290837094" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="aux.html" crc="3947492813" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="daikin.html" crc="43284670" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="general.html" crc="4210770573" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="gree.html" crc="59351702" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="toshiba.html" crc="3999384711" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="nippon.html" crc="222281959" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="fujitsu.html" crc="4173631282" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="mitsubishi.html" crc="3938088546" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="midea.html" crc="3919857436" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="arielli.html" crc="4063886740" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="tcl.html" crc="387147325" seo="true" mt="1517244597523" redirect="true"/>
-  <file name="професионални.html" crc="3858244585" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="index.html" crc="3759271175" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="климатици.html" crc="3844513788" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="промоции.html" crc="52477682" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="за-нас.html" crc="3777597492" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="контакти.html" crc="506808695" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="автоклиматици.html" crc="144025515" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="домашни.html" crc="3771548022" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="aux.html" crc="452966138" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="daikin.html" crc="387530631" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="general.html" crc="4126206414" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="gree.html" crc="295931759" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="toshiba.html" crc="4224705678" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="nippon.html" crc="294291759" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="fujitsu.html" crc="4258657855" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="mitsubishi.html" crc="270025256" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="midea.html" crc="4019514497" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="arielli.html" crc="3919740379" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="tcl.html" crc="3961231900" seo="true" mt="1517244597523" redirect="true"/>
+  <file name="професионални.html" crc="4023566724" seo="true" mt="1517244597523" redirect="true"/>
 </manifest>
